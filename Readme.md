@@ -1,4 +1,3 @@
-readme_content = """
 # Employee Attrition Prediction
 
 This project aims to predict employee attrition using various machine learning techniques. Employee attrition is a critical issue for many organizations, and the ability to predict which employees are likely to leave can help in designing effective retention strategies.
